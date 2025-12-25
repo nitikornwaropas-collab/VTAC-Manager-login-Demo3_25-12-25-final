@@ -1,0 +1,7 @@
+{
+  "name": "VTAC Manager-login Demo3_25-12-25 final",
+  "description": "Centralize team communication, scheduling, and player development, featuring a detailed Player CV and stats profile.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
